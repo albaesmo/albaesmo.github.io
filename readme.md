@@ -1,4 +1,4 @@
-## (Nombre del proyecto)
+## (Kirby´s Abilities Adventure)
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -8,29 +8,29 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Kirby´s Abilities Adventure
 
 **Web:**   (url github.io)
 
 **Autor:**  (Nombre apellidos)
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este proyecto busca ser un juego interactivo e informativo acerca de la saga de juegos de Kirby. 
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  juego / portfolio 
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
 (insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 800x600px
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   Google Chrome / MS Edge/móviles android
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 8.7MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 08/06/2022
 
 **Medios** (donde se tiene presencia relacionada):
 
@@ -39,7 +39,6 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Instagram
 
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
@@ -52,12 +51,10 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 ### 2.2. Esquema de navegación 
-
-
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
+Nos encontramos con el menu principal que cuenta con 6 de las habilidades más famosas del personaje. Cada una cuenta con un dibujo que realicé para el proyecto, descripciones y un video de Youtube que muestra las evoluciones de estas.
+Luego tenemos la galería, formada por imágenes que he usado de referencia a la hora de realizar el proyecto.
+Un minijuego, que cuenta con un quizz.
+Y finalmente los créditos
 
 
 
