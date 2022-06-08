@@ -44,9 +44,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 ### 2.1 Storyboard: 
 
-
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+Mi proyecto se basa en un juego que, a la vez de informar acerca de la saga de juegos de Kirby (perteneciente a Nintendo) con descripciones de sus habilidades, también permite interactuar con un sencillo minijuego.
 
 
 
@@ -83,7 +81,7 @@ Este  proyecto es interesante porque ...
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a todo tipo de públicos
 
 
 
@@ -132,12 +130,13 @@ Este  proyecto es interesante porque ...
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- Clip Studio Paint
+- Photoshop
 
 
 
 (imagen de la licencia, copiar y pegar aquí la correcta)
 
-https://creativecommons.org/licenses/?lang=es
 
-Mayo 2020
+
+Junio 2022
